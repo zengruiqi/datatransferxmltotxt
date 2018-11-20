@@ -1,0 +1,7 @@
+
+使用方式，进入jar包文件夹，输入命令如下：
+transferxmltotxt.jar XML文件输入目录 CSV文件输出目录
+
+示例：
+transferxmltotxt.jar E:\input\ E:\output\
+文件路径不能有空格，路径末尾以\结尾
